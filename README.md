@@ -44,8 +44,4 @@ This project uses Machine Learning to predict customer churn and identify custom
 4. Run all cells to reproduce the analysis.
 
 ## Author
-Your Name
-
-GitHub: Add your GitHub profile link
-
-LinkedIn: Add your LinkedIn profile link
+jain jay
